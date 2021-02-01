@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(43, 54, 100);
+}
+
+.contenedor {
+    width: 90%;
+    margin: auto;
+}
+
+h1 {
+    padding: 10px;
+    background-color: rgb(223, 219, 219);
+    margin-top: 20px;
+}
+
+article {
+    padding: 10px;
+    background-color: white;
+    padding: 10px;
+    border-top: 4px solid orangered;
+    border-bottom: 4px solid orangered;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 22px;
+}
+
+.cerrar-sesion {
+    background-color: white;
+    margin-top: 30px;
+    width: 10%;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a {
+    padding: 10px;
+}
+
+
+
+
+
+

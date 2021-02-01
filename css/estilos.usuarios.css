@@ -1,0 +1,17 @@
+.contenedor-guardar-usuarios {
+    box-shadow: 6px 6px 15px rgb(75, 75, 75);
+}
+
+.animacion-lateral {
+    animation-duration: 1s;
+    animation-name: fromright;
+}
+
+@keyframes fromright {
+    from {
+        transform: translateX(-200%);
+    }
+    to {
+        transform: translateX(0%);
+    }
+}
